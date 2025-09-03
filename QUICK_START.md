@@ -2,7 +2,7 @@
 
 Get your personalized resume builder running locally in minutes!
 
-## 🚀 Quick Setup (5 minutes)
+## 🚀 Quick Setup (5 minutes.)
 
 ### 1. Install Dependencies
 
