@@ -8,7 +8,7 @@ This guide will help you deploy your personalized resume builder project to prod
 - Node.js (v16 or higher)
 - MongoDB Atlas account (free tier available)
 - Vercel account (free tier available)
-- Render/Railway account (free tier available)
+- Render/Railway account (free tier available))
 
 ## 🗄️ Database Setup (MongoDB Atlas)
 
